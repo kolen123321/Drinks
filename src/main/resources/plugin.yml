@@ -1,0 +1,5 @@
+name: Drinks
+version: '${project.version}'
+main: com.kolen_.drinks.Drinks
+commands:
+  drinks:
